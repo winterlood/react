@@ -1,6 +1,6 @@
 # [React](https://reactjs.org/) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/master/LICENSE) [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react) [![CircleCI Status](https://circleci.com/gh/facebook/react.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/facebook/react) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://reactjs.org/docs/how-to-contribute.html#your-first-pull-request)
 
-React 는 ui를 빌드할 수 있는 javascript 라이브러리입니다.
+React 는 ui를 빌드할 수 있는 javascript 라이브러리입니다
 
 * **선언형 프로그래밍:**
 React는 대화 형 UI를 만드는 데 최적화 되어있습니다. 애플리케이션의 각 상태에 대한 간단한보기를 설계하면 데이터가 변경 될 때 React가 올바른 컴포넌트 만 효율적으로 업데이트하고 렌더링합니다. 선언적 뷰는 코드를보다 예측 가능하고 이해하기 쉽고 디버깅하기 쉽게 만듭니다.
